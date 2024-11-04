@@ -1,0 +1,55 @@
+.container {
+  padding: 10px;
+}
+
+.row1 {
+  display: flex;
+}
+
+.box1 {
+  background-color: yellow;
+  padding: 100px;
+  border: 2px solid black;
+}
+
+.box2 {
+  background-color: rgb(226, 87, 0);
+  padding: 100px;
+  width: 100%;
+  margin-left: 50px;
+  border: 2px solid black;
+}
+
+.row2 {
+  display: flex;
+  margin-top: 20px;
+}
+
+.box3 {
+  background-color: rgb(24, 217, 175);
+  padding: 100px;
+  border: 2px solid black;
+}
+
+.box4 {
+  background-color: rgb(195, 195, 195);
+  padding: 100px;
+  height: 210px;
+  flex-basis: 100%;
+  margin-left: 50px;
+  margin-right: 50px;
+  border: 2px solid black;
+}
+
+.box5 {
+  background-color: skyblue;
+  padding: 100px;
+  border: 2px solid black;
+}
+
+.row3 {
+  background-color: blue;
+  padding: 30px;
+  border: 2px solid black;
+  margin-top: 20px;
+}

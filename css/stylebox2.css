@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.box1 {
+  background-color: rgb(94, 224, 164);
+  padding: 100px;
+  border: 2px solid black;
+}
+
+.row2 {
+  display: flex;
+  margin-top: 50px;
+}
+
+.box2 {
+  background-color: yellow;
+  padding: 100px;
+  border: 2px solid black;
+}
+.box3 {
+  background-color: rgb(236, 103, 51);
+  padding: 100px;
+  width: 100%;
+  margin-left: 50px;
+  border: 2px solid black;
+}
+
+.row3 {
+  display: flex;
+  margin-top: 50px;
+}
+
+.box4 {
+  background-color: yellow;
+  padding: 100px;
+  border: 2px solid black;
+}
+.box5 {
+  background-color: skyblue;
+  padding: 100px;
+  margin-left: 50px;
+  width: 100%;
+  border: 2px solid black;
+}
